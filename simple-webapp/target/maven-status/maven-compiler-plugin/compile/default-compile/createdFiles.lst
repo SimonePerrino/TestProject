@@ -1,0 +1,17 @@
+com\java\webapp\db\dao\TransactionDAO.class
+com\java\webapp\db\dao\CardDAO.class
+com\java\webapp\db\dto\Document.class
+com\java\webapp\db\dto\Transaction.class
+com\java\webapp\db\dao\AddressDAO.class
+com\java\webapp\db\dao\UserDAO.class
+com\java\webapp\db\dto\Bank.class
+com\java\webapp\db\dao\BankDAO.class
+com\java\webapp\db\dto\Bankaccount.class
+com\java\webapp\db\dao\UserJoinDAO.class
+com\java\servlet\WaServlet.class
+com\java\webapp\db\dao\DocumentDAO.class
+com\java\webapp\db\dto\Address.class
+com\java\webapp\db\dto\User.class
+com\java\webapp\db\dao\BankaccountDAO.class
+com\java\webapp\main\TestSimpleWebApp.class
+com\java\webapp\db\dto\Card.class

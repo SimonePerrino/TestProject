@@ -1,0 +1,19 @@
+[INFO ] 2022-03-18 15:15:41.561 [main] Log4jdemo - This is information message
+[ERROR] 2022-03-18 15:15:41.567 [main] Log4jdemo - This is an error message
+[WARN ] 2022-03-18 15:15:41.567 [main] Log4jdemo - This is a warning message
+[FATAL] 2022-03-18 15:15:41.567 [main] Log4jdemo - This is a fatal message
+[INFO ] 2022-03-18 15:17:08.835 [main] Log4jdemo - This is information message
+[ERROR] 2022-03-18 15:17:08.843 [main] Log4jdemo - This is an error message
+[WARN ] 2022-03-18 15:17:08.844 [main] Log4jdemo - This is a warning message
+[FATAL] 2022-03-18 15:17:08.844 [main] Log4jdemo - This is a fatal message
+[TRACE] 2022-03-18 15:17:58.482 [main] Log4jdemo - This is a trace message
+[INFO ] 2022-03-18 15:17:58.489 [main] Log4jdemo - This is information message
+[ERROR] 2022-03-18 15:17:58.489 [main] Log4jdemo - This is an error message
+[WARN ] 2022-03-18 15:17:58.490 [main] Log4jdemo - This is a warning message
+[FATAL] 2022-03-18 15:17:58.490 [main] Log4jdemo - This is a fatal message
+[TRACE] 2022-03-18 16:50:49.384 [main] Log4jdemo - This is a trace message
+[INFO ] 2022-03-18 16:50:49.391 [main] Log4jdemo - This is information message
+[ERROR] 2022-03-18 16:50:49.391 [main] Log4jdemo - This is an error message
+[WARN ] 2022-03-18 16:50:49.392 [main] Log4jdemo - This is a warning message
+[FATAL] 2022-03-18 16:50:49.392 [main] Log4jdemo - This is a fatal message
+[DEBUG] 2022-03-18 17:05:27.221 [main] Log4jdemo - Ciao
